@@ -1,0 +1,30 @@
+h1{
+  color:orange;
+  background-color: slategray;
+  font-size: 20px;
+  font-family: Arial;
+  text-align: center;
+}
+p{
+  color: slategray;
+  text-align: right;
+  line-height: 30px;
+  letter-spacing: 3px;
+  column-count: 2px;
+  column-gap: 60px;
+}
+ul{
+  border-color: hsl(0, 0%, 73%);
+  border-left: dashed hsl(0, 0%, 73%);
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  font: 1rem/1.5 var(--bs-font-sans-serif);
+}
+a {
+  color: var(--bs-blue);
+}
